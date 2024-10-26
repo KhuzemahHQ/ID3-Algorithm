@@ -6,6 +6,7 @@ The <name>_dataset.txt contains integer labels for the string attribute values, 
 ![dataset](https://github.com/user-attachments/assets/7859f5c0-fe69-464a-bed7-86dc6b0cddc4)
 
 The following is an example of tennis_encodings.txt
+
 ![image](https://github.com/user-attachments/assets/768107c0-16a5-438c-bac1-15adeb19ba82)
 
 You should interpret this file as follows:
@@ -26,17 +27,21 @@ Tree Output: Once the tree is constructed, it’s printed as a Python dictionary
 The output dictionary is formatted to match the structure specified in the example output.
 
 When run using tennis_dataset.txt and tennis_encodings.txt:
+
 ![image](https://github.com/user-attachments/assets/b4c62014-dee0-45d6-a458-549430f984b9)
 
 When run using vampire_dataset.txt and vampire_encodings.txt:
+
 ![image](https://github.com/user-attachments/assets/57a7d8f5-02fc-44f6-9c8d-5aaa4e975be5)
 
 
 When run using drug_dataset.txt and drug_encodings.txt:
+
 ![image](https://github.com/user-attachments/assets/ac1c5e45-6907-4c2e-a8b6-80447796c997)
 
 
 When run using loan_dataset.txt and loan_encodings.txt:
+
 ![image](https://github.com/user-attachments/assets/769162f8-e1cb-4608-989e-1e788e0babae)
 
 
