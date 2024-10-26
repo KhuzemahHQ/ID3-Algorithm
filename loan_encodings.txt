@@ -1,0 +1,6 @@
+Age,Has_Job,Owns_House,Credit_Rating,Approve_Loan
+Young,Middle,Old
+FALSE,TRUE
+FALSE,TRUE
+Fair,Good,Excellent
+No,Yes

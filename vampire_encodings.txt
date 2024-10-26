@@ -1,0 +1,6 @@
+Casts_Shadow,Eats_Garlic,Skin_Complexion,Accent,Vampire
+Dont_Know,Yes,No
+Yes,No
+Pale,Ruddy,Average
+None,Heavy,Odd
+Yes,No

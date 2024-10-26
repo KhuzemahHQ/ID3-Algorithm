@@ -1,0 +1,6 @@
+Age,Sex,BP,Cholesterol,Drug
+Young,Middle_Aged,Senior
+Female,Male
+Low,High,Normal
+Normal,High
+A,B
